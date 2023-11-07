@@ -1,8 +1,6 @@
-# specialTopics2
+# Angular CRUD Application with Rest API
 
-**Angular CRUD Application with Rest API**
-
-Here will be the application for the Special Topics 
+Here will be the application for the Special Topics Homework
 
 **Project Overview**
 This project will be an application created for executing CRUD operations. 
