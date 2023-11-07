@@ -1,3 +1,4 @@
 App(Router) --> /tutorials/id --> TutorialDetails --|
-            --> /tutorials --> TutorialsList ------- Tutorial Service 
+            --> /tutorials --> TutorialsList ------- Tutorial Service (HTTP Client ->request
+                                                    |                              <- response)
             --> /add --> AddTutorial ---------------|
