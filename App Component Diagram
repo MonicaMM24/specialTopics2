@@ -1,0 +1,3 @@
+App(Router) --> /tutorials/id --> TutorialDetails --|
+            --> /tutorials --> TutorialsList ------- Tutorial Service 
+            --> /add --> AddTutorial ---------------|
