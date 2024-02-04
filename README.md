@@ -11,7 +11,7 @@ Search bar to find tutorials by title with the help of Elasticsearch
 
 **Technologies used**
 
-*Angular 13* TypeScript-based web framework
+*React* TypeScript-based web framework
 
 *RxJS 7* - library for reactive programming using Observables, to make it easier to 
 compose asynchronous or callback-based code
