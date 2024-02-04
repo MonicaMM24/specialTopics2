@@ -1,0 +1,5 @@
+1. lipsa model de date pentru tutorial - idk la ce se refera
+2. GET /api/tutorials ? searchText=test - idk what this is
+3. fara DELETE - done 
+4. fara dubluri - done
+5. nodejs la backend - done
